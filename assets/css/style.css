@@ -277,6 +277,18 @@ footer {
 }
 
 
+#github-link {
+  padding-top: 30px;
+  color:rgb(141, 138, 138)
+}
+
+.github-icon:hover{
+  color: rgb(141, 138, 138);
+}
+
+.github-icon{
+  color: rgb(73, 71, 71);
+}
 
 /*-------------------------------------Work History */
 
